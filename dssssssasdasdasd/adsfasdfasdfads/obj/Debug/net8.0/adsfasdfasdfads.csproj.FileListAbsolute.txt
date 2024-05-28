@@ -1,0 +1,14 @@
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\bin\Debug\net8.0\adsfasdfasdfads.exe
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\bin\Debug\net8.0\adsfasdfasdfads.deps.json
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\bin\Debug\net8.0\adsfasdfasdfads.runtimeconfig.json
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\bin\Debug\net8.0\adsfasdfasdfads.dll
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\bin\Debug\net8.0\adsfasdfasdfads.pdb
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\obj\Debug\net8.0\adsfasdfasdfads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\obj\Debug\net8.0\adsfasdfasdfads.AssemblyInfoInputs.cache
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\obj\Debug\net8.0\adsfasdfasdfads.AssemblyInfo.cs
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\obj\Debug\net8.0\adsfasdfasdfads.csproj.CoreCompileInputs.cache
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\obj\Debug\net8.0\adsfasdfasdfads.dll
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\obj\Debug\net8.0\refint\adsfasdfasdfads.dll
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\obj\Debug\net8.0\adsfasdfasdfads.pdb
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\obj\Debug\net8.0\adsfasdfasdfads.genruntimeconfig.cache
+C:\Users\KRMOFF\Desktop\adsfasdfasdfads\adsfasdfasdfads\obj\Debug\net8.0\ref\adsfasdfasdfads.dll
